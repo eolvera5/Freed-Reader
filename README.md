@@ -1,3 +1,6 @@
+
+# Freed-Reader
+
 #Project Overview
 This project consists of a web-based application that reads Rich Site Summaries. In it's original state, it included Jasmine and an initial test suite! These tests were added to ensure:
 
@@ -15,4 +18,3 @@ Writing test using the Test-driven development methodology, provides the benefit
 #Many thanks to:
 Helpful Sources for this project:
 Udacity - Project Origin & Matthew Cranford's Blog
-# Freed-Reader
